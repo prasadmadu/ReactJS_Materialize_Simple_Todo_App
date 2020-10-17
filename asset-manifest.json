@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJS_Materialize_Simple_Todo_App/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ReactJS_Materialize_Simple_Todo_App/static/js/main.58164c80.chunk.js",
+    "main.js.map": "/ReactJS_Materialize_Simple_Todo_App/static/js/main.58164c80.chunk.js.map",
+    "runtime-main.js": "/ReactJS_Materialize_Simple_Todo_App/static/js/runtime-main.20316d99.js",
+    "runtime-main.js.map": "/ReactJS_Materialize_Simple_Todo_App/static/js/runtime-main.20316d99.js.map",
+    "static/js/2.0c71bd63.chunk.js": "/ReactJS_Materialize_Simple_Todo_App/static/js/2.0c71bd63.chunk.js",
+    "static/js/2.0c71bd63.chunk.js.map": "/ReactJS_Materialize_Simple_Todo_App/static/js/2.0c71bd63.chunk.js.map",
+    "index.html": "/ReactJS_Materialize_Simple_Todo_App/index.html",
+    "precache-manifest.d04f80de5b29e6c7ed29427c32880b58.js": "/ReactJS_Materialize_Simple_Todo_App/precache-manifest.d04f80de5b29e6c7ed29427c32880b58.js",
+    "service-worker.js": "/ReactJS_Materialize_Simple_Todo_App/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ReactJS_Materialize_Simple_Todo_App/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0c71bd63.chunk.js.LICENSE.txt": "/ReactJS_Materialize_Simple_Todo_App/static/js/2.0c71bd63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20316d99.js",
+    "static/js/2.0c71bd63.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.58164c80.chunk.js"
+  ]
+}
